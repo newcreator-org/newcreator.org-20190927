@@ -1,3 +1,6 @@
+font-family: 'Noto Serif JP', serif;
+font-family: 'Noto Sans JP', sans-serif;
+
 /* stylelint-disable selector-list-comma-newline-after */
 
 .blog-header {
@@ -125,6 +128,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Customize */
+
+h1.catch-h1 , p.catch-p {
+  font-family: Noto Serif JP, serif;
+}
 
 .bg-3812821 {
   background-image:url(img/48426.jpg);
